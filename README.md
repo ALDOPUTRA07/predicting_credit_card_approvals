@@ -45,7 +45,9 @@ This project build an automatic credit card approval predictor using machine lea
 
 These are list any major frameworks/libraries used to make the project.
 
-* [![Pytorch][Pytorch]][Pytorch-url]
+* [![Sklearn][Sklearn]][Sklearn-url]
+* [![Pandas][Pandas]][Pandas-url]
+* [![Numpy][Numpy]][Numpy-url]
 
 
 ## Background
@@ -74,5 +76,9 @@ MIT
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[Pytorch]: https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white
-[Pytorch-url]: https://pytorch.org/
+[Sklearn]: https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white
+[Sklearn-url]: https://scikit-learn.org/stable/
+[Numpy]: https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white
+[Numpy-url]: https://numpy.org/
+[Pandas]: https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white
+[Pandas-url]: https://pandas.pydata.org/

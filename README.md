@@ -39,7 +39,7 @@ Commercial banks receive <em>a lot</em> of applications for credit cards. Many o
 
 This project build an automatic credit card approval predictor using machine learning techniques (Using logistic regression), just like the real banks do.
 
-**Note:** This project is still in Jupyter Notebook form. The next step is to carry out the packaging and deploying code process.
+**Note:** This project is still in Jupyter Notebook. The next step is to carry out the packaging and deploying code process.
 
 
 
